@@ -5,3 +5,5 @@ This is website that showcases my journey into programming
 HTML
 CSS
 
+# Licence
+MIT
